@@ -6,6 +6,6 @@
 
 파이썬 or 아나콘다(주피터 노트북) 설치는 별도로 진행해야 합니다.<br/>텍스트 분석에 필요한 패키지는 아래 pip 명령어를 참고해 설치해 주세요.
 
-    pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org opencv-python
+    pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org 패키지명
 
 이제 학습을 시작하면 됩니다.<br/>텍스트 분석을 통해 비정형 데이터 핸들링의 전문가가 되어 보세요 :)
